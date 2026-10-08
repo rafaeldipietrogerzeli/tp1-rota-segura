@@ -1,0 +1,8 @@
+/bin/
+/test-bin/
+*.class
+/dados_locadora.txt
+/dados_locadora.txt.tmp
+/historico_locacoes.txt
+/historico_locacoes.txt.tmp
+/.metadata/
